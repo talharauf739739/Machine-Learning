@@ -1,0 +1,14 @@
+Anomaly detection (aka outlier analysis) is a step in data mining that identifies data points, events, and/or observations
+that deviate from a dataset's normal behavior. Anomalous data can indicate critical incidents, such as a technical glitch,
+or potential opportunities, for instance a change in consumer behavior.
+
+
+Anomaly detection is the identification of rare events, items, or observations which are suspicious because they differ
+significantly from standard behaviors or patterns. Anomalies in data are also called standard deviations, outliers, noise,
+novelties, and exceptions.
+
+
+From a very high level and in a very generic way, time series anomaly detection can be done by three main ways:
+By Predictive Confidence Level Approach. 
+Statistical Profiling Approach.
+Clustering Based Unsupervised Approach.

@@ -1,0 +1,18 @@
+Decision Trees are a type of Supervised Machine Learning (that is you explain what the input is and what the corresponding
+ output is in the training data) where the data is continuously split according to a certain parameter.
+ ... The leaves are the decisions or the final outcomes
+
+
+Entropy:
+Entropy can be defined as a measure of the purity of the sub split. Entropy always lies between 0 to 1. 
+The entropy of any split can be calculated by this formula
+
+Gini:
+Gini Index, also known as Gini impurity, calculates the amount of probability of a specific feature that is classified
+ incorrectly when selected randomly.
+ While designing the decision tree, the features possessing the least value of the Gini Index would get preferred.
+
+Information Gain:
+ Information Gain, or IG for short, measures the reduction in entropy or surprise by splitting a dataset according
+ to a given value of a random variable.
+ A larger information gain suggests a lower entropy group or groups of samples, and hence less surprise

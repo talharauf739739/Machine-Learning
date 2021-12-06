@@ -1,0 +1,18 @@
+A random forest is a machine learning technique that's used to solve regression and classification problems.
+It utilizes ensemble learning, which is a technique that combines many classifiers to provide solutions to complex problems.
+A random forest algorithm consists of many decision trees.
+
+
+It uses bagging and feature randomness when building each individual tree to try to create an uncorrelated forest of trees
+whose prediction by committee is more accurate than that of any individual tree.
+
+
+Random Forest is one of the most popular and commonly used algorithms across real-life data science projects as well as data
+science competitions.
+This ensures that there is no bias in the model as there is no particular segment of data or a set of features that
+dominates the prediction results.
+
+
+Random Forest is an ensemble of unpruned classification or regression trees created by using bootstrap samples of the
+training data and random feature selection in tree induction. Prediction is made by aggregating (majority vote or averaging)
+the predictions of the ensemble.
